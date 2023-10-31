@@ -4,18 +4,18 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 
 ## INDICE
 
-  * [JavaScript]
-    - [React]
-    - [Vue]
-    - [Angular]
-    - [Node.js]
-  * [C++]
-  * [Python]
-    - [Django]
-    - [Flask]
-    - [FastApi]
-  * Apis
-  * Retos de Programacion
+  * [JavaScript]()
+    - [React]()
+    - [Vue]()
+    - [Angular]()
+    - [Node.js]()
+  * [C++]()
+  * [Python]()
+    - [Django]()
+    - [Flask]()
+    - [FastApi]()
+  * [Apis]()
+  * [Retos de Programacion]()
   * 
 ## Apis
 
@@ -25,7 +25,7 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 # LENGUAJES DE PROGRAMACION Y FRAMEWORKS
 ## JavaScript
 
-### 30 PROYECTOS DE PROGAMACION EN JAVASCRIPT
-[IR](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [30 PROYECTOS DE PROGAMACION EN JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
 
 
