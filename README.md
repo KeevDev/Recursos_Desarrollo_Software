@@ -25,7 +25,9 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 # LENGUAJES DE PROGRAMACION Y FRAMEWORKS
 ## JavaScript
 
-1. ### [30 PROYECTOS DE PROGAMACION EN JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+1. ### [ROADMAP PARA APRENDER JAVASCRIPT](https://roadmap.sh/javascript)
+2. ### [30 PROYECTOS DE PROGAMACION EN JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+3. 
 
 
 
