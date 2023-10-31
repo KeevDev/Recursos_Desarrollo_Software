@@ -4,7 +4,7 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 
 ## Lenguajes de programacion y sus frameworks
 
-  * [Javascript](./JavaScript)
+  * [Javascript](JavaScript)
     - [React] (.)
     - Vue
     - 
@@ -20,7 +20,23 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 
 
 
-
+ahdfjafdsjadfksafd
+adfs
+ads
+df
+afd
+dfa
+sfd
+asfd
+aaf
+dfas
+fda
+afd
+fdas
+afds
+d
+sd
+s
 
 
 
