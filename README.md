@@ -82,12 +82,10 @@ C++ Concurrency in action
 4. #### [CodeChef](https://www.codechef.com/)
 5. #### [Sololearn](https://www.sololearn.com/)
 6. #### [FreeCodeCamp / Aprendizaje](https://www.freecodecamp.org/)
-
 -------------------------------------------------------------------------------------------------------
 ## Unity / C# para juegos
 <a name="Unity"></a>
 1. #### [Este canal para aprender a crear juegos en unity](https://www.youtube.com/@TheLowis)
-2. 
 -------------------------------------------------------------------------------------------------------
 ## Unreal Engine / C++ para juegos
 <a name="UE"></a>
@@ -99,9 +97,19 @@ Unreal Engine 4 for Beginners
 ## CiberSeguridad
 <a name="Ciberseguridad"></a>
 1. #### [Curso Analista Junior en Ciberseguridad / Duracion 120 horas](https://skillsforall.com/career-path/cybersecurity?courseLang=es-XL)
-2. 
+2. #### [Practica Ciberseguridad con ejercicios](https://hackrocks.com/)
+3. #### [Realiza ejercicios de Hacking](https://overthewire.org/wargames/bandit/)
+4. #### [Laboratorios de Hacking](http://labs.gf0s.com/)
+5. #### [Practica metiendote en el rol de ciberseguridad](https://defendtheweb.net/)
+6. #### [Competencias de Hacking](https://ctftime.org/)
 -------------------------------------------------------------------------------------------------------
 ## Herramientas
 <a name="herramientas"></a>
 1. #### [Aprende vim](https://www.openvim.com/)
+
+libros
+Cracking the Coding Interview
+Data Structures and Algorithms in Python
+Algorithms
+Introduction to Algorithms
 -------------------------------------------------------------------------------------------------------
