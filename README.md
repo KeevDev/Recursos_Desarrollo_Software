@@ -33,9 +33,11 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 4. #### [30 proyectos de programacion en JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 5. #### [Reto 30 dias JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 6. #### [Curso Harvard con certificado en COMPUTER SCIENCE](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+7. #### [Web Teorica de JavaScript](https://es.javascript.info/)
   - ### Css
   <a name="Css"></a>
   1. [Aprende CSS en esta web / DOCUMENTACION](https://web.dev/learn/css?hl=es)
+  2. [Paleta de colores para tu pagina web](https://uicolors.app/create)
   - ### React
   <a name="React"></a>
   - ### Vue.js
@@ -60,6 +62,7 @@ C++ Concurrency in action
 1. #### [Roadmap para aprender Python](https://roadmap.sh/python)
 2. #### [Web para aprender python](https://realpython.com/)
 3. #### [Curso Harvard con certificado en COMPUTER SCIENCE](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+4. #### [Curso Python de 0 a Backend](https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&ab_channel=MoureDevbyBraisMoure)
   - ### Django
   <a name="Django"></a>
   - ### Flasl
@@ -78,10 +81,13 @@ C++ Concurrency in action
 <a name="programacion"></a>
 1. #### [Codeforces](https://codeforces.com/)
 2. #### [HackerRank](https://www.hackerrank.com/)
-3. #### [LeetCode](https://leetcode.com/) 
-4. #### [CodeChef](https://www.codechef.com/)
-5. #### [Sololearn](https://www.sololearn.com/)
-6. #### [FreeCodeCamp / Aprendizaje](https://www.freecodecamp.org/)
+3. #### [LeetCode](https://leetcode.com/)
+4. #### [CodeWars](https://www.codewars.com/)
+5. #### [CodeChef](https://www.codechef.com/)
+6. #### [Sololearn](https://www.sololearn.com/)
+7. #### [FreeCodeCamp / Aprendizaje](https://www.freecodecamp.org/)
+8. #### [Dev Challenges](https://devchallenges.io/challenges)
+9. #### [Desarrolla Pruebas tecnicas](https://pruebastecnicas.com/)
 -------------------------------------------------------------------------------------------------------
 ## Unity / C# para juegos
 <a name="Unity"></a>
@@ -106,6 +112,7 @@ Unreal Engine 4 for Beginners
 ## Herramientas
 <a name="herramientas"></a>
 1. #### [Aprende vim](https://www.openvim.com/)
+2. #### [Aprende como funcionan los algoritmos de manera mas visual](https://visualgo.net/en)
 
 libros
 Cracking the Coding Interview
