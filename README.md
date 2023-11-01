@@ -5,22 +5,20 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 ## INDICE
 
   * [JavaScript](#JavaScript)
-    - [React]()
-    - [Vue]()
-    - [Angular]()
-    - [Node.js]()
-  * [C++]()
-  * [Python]()
-    - [Django]()
-    - [Flask]()
-    - [FastApi]()
-  * [Apis]()
-  * [Retos de Programacion]()
+    - [React](React)
+    - [Vue](Vue)
+    - [Angular](Angular)
+    - [Node.js](Node.js)
+  * [C++](C++)
+  * [Python](Python)
+    - [Django](Django)
+    - [Flask](Flask)
+    - [FastApi](FastApi)
+  * [Apis](Apis)
+  * [Retos de Programacion](programacion)
   * 
   
-## Apis
 
-## Practicar retos de programacion
 
 
 # LENGUAJES DE PROGRAMACION Y FRAMEWORKS
@@ -32,4 +30,10 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 3. 
 
 
+## Apis
+<a name="Apis"></a>
+[Apis](Apis)
 
+## Practicar retos de programacion
+<a name="programacion"></a>
+[Retos de Programacion](programacion)
