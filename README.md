@@ -3,8 +3,8 @@
 Este proyecto es una recopilación de recursos útiles para desarrolladores de software y entusiastas de la programación competitiva. Aquí encontrarás enlaces, tutoriales y materiales relacionados con varios lenguajes de programación, frameworks, diseño de software, API y práctica de programación competitiva.
 
 ## INDICE
-<a name="ejemplo"></a>
-  * [Ejemplo](#ejemplo)
+
+  * [JavaScript](#JavaScript)
     - [React]()
     - [Vue]()
     - [Angular]()
@@ -17,6 +17,7 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
   * [Apis]()
   * [Retos de Programacion]()
   * 
+  
 ## Apis
 
 ## Practicar retos de programacion
@@ -24,7 +25,8 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 
 # LENGUAJES DE PROGRAMACION Y FRAMEWORKS
 ## JavaScript
-[Ejemplo](#ejemplo)
+<a name="JavaScript"></a>
+[JavaScript](#JavaScript)
 1. ### [ROADMAP PARA APRENDER JAVASCRIPT](https://roadmap.sh/javascript)
 2. ### [30 PROYECTOS DE PROGAMACION EN JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 3. 
