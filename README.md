@@ -7,7 +7,7 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
   * [JavaScript](#JavaScript)
     - [Css](#Css)
     - [React](#React)
-    - [Vue](#Vue)
+    - [Vue.js](#Vue)
     - [Angular](#Angular)
     - [Node.js](#Node.js)
   * [C++](#C++)
@@ -33,12 +33,17 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 4. #### [30 proyectos de programacion en JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 5. #### [Reto 30 dias JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 6. #### [Curso Harvard con certificado en COMPUTER SCIENCE](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-  ### [Css](#Css)
+  ### Css
+  <a name="Css"></a>
   1. [Aprende CSS en esta web / DOCUMENTACION](https://web.dev/learn/css?hl=es)
-  ### [React](#React)
-  ### [Vue](#Vue)
-  ### [Angular](#Angular)
-  ### [Node.js](#Node.js)
+  -### React
+  <a name="React"></a>
+  - ### Vue.js
+  <a name="Vue"></a>
+  ### Angular
+  <a name="Angular"></a>
+  ### Node.js
+  <a name="Node.js"></a>
 -------------------------------------------------------------------------------------------------------
 ## C++
 <a name="C++"></a>
