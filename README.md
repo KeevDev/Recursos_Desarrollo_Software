@@ -60,9 +60,12 @@ C++ Concurrency in action
 1. #### [Roadmap para aprender Python](https://roadmap.sh/python)
 2. #### [Web para aprender python](https://realpython.com/)
 3. #### [Curso Harvard con certificado en COMPUTER SCIENCE](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-  ### [Django](#Django)
-  ### [Flask](#Flask)
-  ### [FastApi](#FastApi)
+  - ### Django
+  <a name="Django"></a>
+  - ### Flasl
+  <a name="Flask"></a>
+  - ### FastApi
+  <a name="FastApi"></a>
  -------------------------------------------------------------------------------------------------------
 ## Sql
 <a name="Sql"></a>
