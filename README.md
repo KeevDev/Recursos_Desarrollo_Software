@@ -36,7 +36,7 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
   - ### Css
   <a name="Css"></a>
   1. [Aprende CSS en esta web / DOCUMENTACION](https://web.dev/learn/css?hl=es)
-  -- ### React
+  + ### React
   <a name="React"></a>
   - ### Vue.js
   <a name="Vue"></a>
