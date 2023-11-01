@@ -25,7 +25,7 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 -------------------------------------------------------------------------------------------------------
 ## JavaScript
 <a name="JavaScript"></a>
-[JavaScript](#JavaScript)
+[Paginas](#JavaScript)
 1. #### [ROADMAP PARA APRENDER JAVASCRIPT](https://roadmap.sh/javascript)
 2. #### [30 PROYECTOS DE PROGAMACION EN JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 3 #### [Curso Harvard con certificado en COMPUTER SCIENCE](https://pll.harvard.edu/course/cs50-introduction-computer-science)
@@ -36,12 +36,12 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 -------------------------------------------------------------------------------------------------------
 ## C++
 <a name="C++"></a>
-[C++](#C++)
+[Paginas](#C++)
 1. #### [Curso Harvard con certificado en COMPUTER SCIENCE](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 -------------------------------------------------------------------------------------------------------
 ## Python 
 <a name="Python"></a>
-[Python](#Python)
+[Paginas](#Python)
 1. #### [Curso Harvard con certificado en COMPUTER SCIENCE](https://pll.harvard.edu/course/cs50-introduction-computer-science)
   ### [Django](#Django)
   ### [Flask](#Flask)
@@ -49,11 +49,11 @@ Este proyecto es una recopilación de recursos útiles para desarrolladores de s
 -------------------------------------------------------------------------------------------------------
 ## Apis
 <a name="Apis"></a>
-[Apis](#Apis)
+[Paginas](#Apis)
 -------------------------------------------------------------------------------------------------------
 ## Practicar retos de programacion
 <a name="programacion"></a>
-[Retos de Programacion](#programacion)
+[Paginas](#programacion)
 -------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------
