@@ -113,6 +113,10 @@ Unreal Engine 4 for Beginners
 <a name="herramientas"></a>
 1. #### [Aprende vim](https://www.openvim.com/)
 2. #### [Aprende como funcionan los algoritmos de manera mas visual](https://visualgo.net/en)
+3. #### [Aprende como estar preparado para una entrevista](https://github.com/jwasham/coding-interview-university)
+4. #### [Aprende Git de manera visual](https://learngitbranching.js.org/?locale=es_ES)
+5. #### [Documentacion Git](https://www.atlassian.com/es/git/tutorials/comparing-workflows)
+
 
 libros
 Cracking the Coding Interview
